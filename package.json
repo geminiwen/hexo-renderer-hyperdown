@@ -1,0 +1,24 @@
+{
+  "name": "hexo-renderer-hyperdown",
+  "version": "0.0.1",
+  "description": "Hyperdown parser for hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geminiwen/hexo-renderer-hyperdown.git"
+  },
+  "keywords": [
+    "hyperdown",
+    "markdown",
+    "hexo"
+  ],
+  "author": "Gemini Wen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geminiwen/hexo-renderer-hyperdown/issues"
+  },
+  "homepage": "https://github.com/geminiwen/hexo-renderer-hyperdown#readme"
+}
