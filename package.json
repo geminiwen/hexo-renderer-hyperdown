@@ -1,7 +1,7 @@
 {
   "name": "hexo-renderer-hyperdown",
   "version": "0.0.1",
-  "description": "Hyperdown parser for hexo",
+  "description": "Hyperdown Parser (Yet another markdown parser) for hexo",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/test.js"
