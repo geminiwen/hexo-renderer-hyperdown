@@ -1,5 +1,5 @@
 var assert = require("assert");
-var Parser = require("../lib/hyperdown");
+var Parser = require("hyperdown");
 var parser = new Parser();
 
 describe('HyperDown.js', function() {
